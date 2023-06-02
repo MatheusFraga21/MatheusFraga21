@@ -17,10 +17,5 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusFraga21&show_icons=true)  
 
-</div>
 
-![Snake animation](https://github.com/MatheusFraga21/MatheusFraga21/blob/output/github-contribution-grid-snake.svg)
-
-</div>
- 
           
